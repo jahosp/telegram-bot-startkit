@@ -1,6 +1,6 @@
 # telegram-bot-startkit
 
-Here you have the basic boilerplate to start developing right away your [telegram bot](https://core.telegram.org/bots) with [Python 3](https://www.python.org/downloads/) and [python-telegram-bot](https://python-telegram-bot.org).
+Here you have a basic boilerplate to start developing right away your [telegram bot](https://core.telegram.org/bots) with [Python](https://www.python.org/downloads/) and [python-telegram-bot](https://python-telegram-bot.org).
 
 ## Instructions
 First, clone this repository somewhere and access it:
